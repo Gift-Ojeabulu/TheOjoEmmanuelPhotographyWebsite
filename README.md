@@ -1,4 +1,4 @@
-# COVID-19 TRACKER
+# THEOJOEMMANUEL PHOTOGRAPHY PORTFOLIO
 
 ## ✅ Goal
 To create an Application that tracks Covid cases in different Countries
