@@ -48,11 +48,10 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 # What I Learned
 <ul>
-    <li> Using react and fetch calls to dynamically update UI.</li>
-    <li> Reinforced knowledge of API integration. </li>
-    <li> Leaflet.js / Chart.js libraries were used to create the interactive map and  
-    responsive line graph components </li>
-    <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
+    <li>I learnt How to Link SVG Ions to Webpage.</li>
+    <li>This project Imporoved my critical thinking and problem solving skills,Where I understoodn It is not just about Coding, It is more about thinking more before you code. </li>
+    <li>I Learnt Website Optimization and How to work with Client's Need.</li>
+    <li> CSS were used to design animations and web layout. </li>
 </ul>
 
 
