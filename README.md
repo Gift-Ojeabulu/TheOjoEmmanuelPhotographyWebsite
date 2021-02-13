@@ -21,20 +21,13 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
 
 
-## ✅ What does it do? 
-It shows Live cases of people with Coronavirus, cases of recovery, and Death Cases for different Countries.
-
-1. Real-time Cases of Countries Covid-19 cases(Ascending order)This part Update Every 10 Minutes.
-2. Line Graph (Time Series Analysis)trend for Coronavirus worldwide cases.
-3. Map Representation of Covid 19 Cases in different countries.
-
 ## ✅ Research Methodology
 1. Planning.
 2. Requirement Gathering.
 3. Design Layout.
-4.Testing.
-5.Website Optimization.
-6.Deployment.
+4. Testing.
+5. Website Optimization.
+6. Deployment.
 
 
 
