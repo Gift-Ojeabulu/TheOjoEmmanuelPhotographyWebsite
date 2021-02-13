@@ -7,7 +7,7 @@ To Build A website that has all information about a Nigrian Born Based Photograp
 	* HTML
     * CSS
     * Javascript
-    * Netlify
+    * Netlify(Deployment)
     
    ![](https://github.com/Gift-Ojeabulu/TheOjoEmmanuelPhotographyWebsite/blob/main/ezgif.com-gif-maker.gif)
     
@@ -28,10 +28,13 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 2. Line Graph (Time Series Analysis)trend for Coronavirus worldwide cases.
 3. Map Representation of Covid 19 Cases in different countries.
 
-## ✅ Features
-1. Tabular Graph.
-2. Line Graph (Time Series Analysis).
-3. Map Graph.
+## ✅ Research Methodology
+1. Planning.
+2. Requirement Gathering.
+3. Design Layout.
+4.Testing.
+5.Website Optimization.
+6.Deployment.
 
 
 
