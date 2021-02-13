@@ -1,7 +1,7 @@
 #  PHOTOGRAPHER'S PORTFOLIO
 
 ## ✅ Goal
-To create an Application that tracks Covid cases in different Countries
+To Build A website that has all information about a Nigrian Born Based Photographer in order to make clients engage with him and build trust with him in photography.
 
 ## ✅ Tech stack!
 	* HTML
