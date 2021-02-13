@@ -65,7 +65,7 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 
 
-![](https://github.com/Gift-Ojeabulu/TheOjoEmmanuelPhotographyWebsite/blob/main/ezgif.com-gif-maker.gif)
+
 
 
 
