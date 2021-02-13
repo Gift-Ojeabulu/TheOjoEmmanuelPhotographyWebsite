@@ -48,10 +48,10 @@ It shows Live cases of people with Coronavirus, cases of recovery, and Death Cas
 
 # What I Learned
 <ul>
-    <li>I learnt How to Link SVG Ions to Webpage.</li>
     <li>This project Imporoved my critical thinking and problem solving skills,Where I understoodn It is not just about Coding, It is more about thinking more before you code. </li>
     <li>I Learnt Website Optimization and How to work with Client's Need.</li>
     <li> CSS were used to design animations and web layout. </li>
+    <li>I learnt how to Link SVG Ions to Webpage.</li>
 </ul>
 
 
