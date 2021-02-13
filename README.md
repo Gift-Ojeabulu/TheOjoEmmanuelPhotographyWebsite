@@ -1,4 +1,4 @@
-# THEOJOEMMANUEL PHOTOGRAPHY PORTFOLIO
+#  PHOTOGRAPHER'S PORTFOLIO
 
 ## ✅ Goal
 To create an Application that tracks Covid cases in different Countries
