@@ -1,6 +1,6 @@
 #  PHOTOGRAPHER'S PORTFOLIO
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Photographer's%20Portfolio&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=theojoemmanuel%20Portfolio&fontSize=70)
 
 ## ✅ Goal
 To Build A website that has all information about a Nigrian Born Based Photographer in order to make clients engage with him and build trust with him in photography.
