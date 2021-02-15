@@ -19,8 +19,7 @@ To Build A website that has all information about a Nigrian Born Based Photograp
 
 
 ## ✅ MOTIVATION
-Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
-Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+
 
 
 ## ✅ Research Methodology
