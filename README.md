@@ -12,7 +12,7 @@ To Build A website that has all information about a Nigrian Born Based Photograp
     * Netlify(Deployment)
     
   
-   
+   ## ✅ VIDEO DEMO
    <img src="https://github.com/Gift-Ojeabulu/TheOjoEmmanuelPhotographyWebsite/blob/main/ezgif.com-gif-maker.gif" width="800" height="450"/>
     
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
